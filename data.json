@@ -1,0 +1,119 @@
+{
+	"Home": [
+		{
+			"homename": "HomeA",
+			"homepassword": "home",
+                "Members": [
+                    {
+                        "id": 0, 
+                        "name": "Cesar",
+                        "email": "cecisner@ucsd.edu",
+                        "password": "group2",
+                            "Tasks": [
+                                {
+                                    "taskid": 0,
+                                    "taskname": "Pay bills",
+                                    "ownerid": 0
+                                },
+                                {
+                                    "taskid": 1,
+                                    "taskname": "Replace bathroom lightbulbs",
+                                    "ownerid": 0
+                                }
+                            ]
+                    },
+                    {
+                        "id": 1, 
+                        "name": "Jaysen",
+                        "email": "jparmar@ucsd.edu",
+                        "password": "group2",
+                            "Tasks": [
+                                {
+                                    "taskid": 0,
+                                    "taskname": "Clean the garage",
+                                    "ownerid": 1
+                                },
+                                {
+                                    "taskid": 1,
+                                    "taskname": "Feed the fish",
+                                    "ownerid": 1
+                                }
+                            ]
+                    },
+                    {
+                        "id": 2, 
+                        "name": "Sarah",
+                        "email": "s4vu@ucsd.edu",
+                        "password": "group2",
+                            "Tasks": [
+                                {
+                                    "taskid": 0,
+                                    "taskname": "Clean living room",
+                                    "ownerid": 2
+                                },
+                                {
+                                    "taskid": 1,
+                                    "taskname": "Take out the trash",
+                                    "ownerid": 2
+                                }
+                            ]
+                    }
+                ]
+		},
+        {
+            "homename": "HomeB",
+			"homepassword": "homehome",
+                "Members": [
+                    {
+                        "id": 0, 
+                        "name": "Steven",
+                        "email": "steven@ucsd.edu",
+                        "password": "group3",
+                            "Tasks": [
+                                {
+                                    "taskid": 0,
+                                    "taskname": "Mow the lawn"
+                                },
+                                {
+                                    "taskid": 1,
+                                    "taskname": "Replace the smoke detectors"
+                                }
+                            ]
+                    },
+                    {
+                        "id": 1, 
+                        "name": "Terrance",
+                        "email": "terry@ucsd.edu",
+                        "password": "group3",
+                            "Tasks": [
+                                {
+                                    "taskid": 0,
+                                    "taskname": "Clean the kitchen"
+                                },
+                                {
+                                    "taskid": 1,
+                                    "taskname": "Feed the cat"
+                                }
+                            ]
+                    },
+                    {
+                        "id": 2, 
+                        "name": "Vanessa",
+                        "email": "vanessa@ucsd.edu",
+                        "password": "group3",
+                            "Tasks": [
+                                {
+                                    "taskid": 0,
+                                    "taskname": "Rake the leaves"
+                                },
+                                {
+                                    "taskid": 1,
+                                    "taskname": "Clean the toilets"
+                                }
+                            ]
+                    }
+                ]
+        }
+    ]
+}
+	
